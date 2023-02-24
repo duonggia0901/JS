@@ -1,1 +1,2 @@
 # JSheloasdfjhsj
+git pull <remote>
