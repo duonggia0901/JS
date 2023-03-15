@@ -1,0 +1,19 @@
+   -> Do file không thể gửi trực tiếp nên em nén lại rồi gửi, nên mong 
+thầy thông cảm ạ!
+   -> Về phần phân công công việc thì em làm những chức năng:
+    -Trang chủ: Toàn bộ giao diện, hiển thị danh sách game mới nhất, 
+hiển thị danh sách game ngẫu nhiên, hiển thị danh sách game rẻ nhất, 
+hiển thị bình luận mới nhất(đang làm...)
+    - Admin: Toàn bộ giao diện, đăng nhập, đăng xuất admin, thêm, sửa,
+xóa thể loại, trò chơi, khôi phục trò chơi đã xóa, thống kê số game
+theo năm,còn phần duyệt bình luận game vẫn đang thống nhất với nhóm
+để hoàn thành ạ.
+
+----------------------------------------------------------------------
+    > Database name: web_game
+----------------------------------------------------------------------
+
+---------------------Em cảm ơn thầy ạ!--------------------------------
+
+   -> LÊ SƠN TRƯỜNG - 19810310104 - D14CNPM2 <-
+ 
